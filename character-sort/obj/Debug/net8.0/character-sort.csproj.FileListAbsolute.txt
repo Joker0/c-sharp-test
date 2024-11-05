@@ -1,0 +1,14 @@
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.AssemblyInfoInputs.cache
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.AssemblyInfo.cs
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.csproj.CoreCompileInputs.cache
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/bin/Debug/net8.0/character-sort
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/bin/Debug/net8.0/character-sort.deps.json
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/bin/Debug/net8.0/character-sort.runtimeconfig.json
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/bin/Debug/net8.0/character-sort.dll
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/bin/Debug/net8.0/character-sort.pdb
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.dll
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/refint/character-sort.dll
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.pdb
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/character-sort.genruntimeconfig.cache
+/home/icefar/enigmabootcamp/nawadata-test/character-sort/obj/Debug/net8.0/ref/character-sort.dll

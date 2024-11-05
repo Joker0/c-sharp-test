@@ -1,0 +1,14 @@
+/home/icefar/enigmabootcamp/nawadata-test/psbb/bin/Debug/net8.0/psbb
+/home/icefar/enigmabootcamp/nawadata-test/psbb/bin/Debug/net8.0/psbb.deps.json
+/home/icefar/enigmabootcamp/nawadata-test/psbb/bin/Debug/net8.0/psbb.runtimeconfig.json
+/home/icefar/enigmabootcamp/nawadata-test/psbb/bin/Debug/net8.0/psbb.dll
+/home/icefar/enigmabootcamp/nawadata-test/psbb/bin/Debug/net8.0/psbb.pdb
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.GeneratedMSBuildEditorConfig.editorconfig
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.AssemblyInfoInputs.cache
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.AssemblyInfo.cs
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.csproj.CoreCompileInputs.cache
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.dll
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/refint/psbb.dll
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.pdb
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/psbb.genruntimeconfig.cache
+/home/icefar/enigmabootcamp/nawadata-test/psbb/obj/Debug/net8.0/ref/psbb.dll
